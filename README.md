@@ -1,5 +1,5 @@
-Affiliates Product Rates
-========================
+Affiliates EDD Downloads Rates
+==============================
 
 Allows you to set different affiliate rates for each download in Easy Digital Downloads.
 
